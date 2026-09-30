@@ -1,13 +1,13 @@
 <!-- ==================== HEADER ==================== -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Mayur%20Chavda&fontSize=72&fontAlignY=36&desc=Full%20Stack%20and%20App%20Developer%20%E2%80%A2%20UI%20Crafter%20%E2%80%A2%20Video%20Editor&descSize=26&descAlignY=60&color=0:1a1b27%2C50:6c47ff%2C100:00d9ff&fontColor=ffffff&animation=twinkling" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Mayur%20Chavda&fontSize=72&fontAlignY=36&desc=Full%20Stack%20and%20App%20Developer%20%E2%80%A2%20UI%20Crafter%20%E2%80%A2%20Video%20Editor&descSize=26&descAlignY=60&color=0:6c47ff%2C100:00d9ff&fontColor=1a1b27&animation=fadeIn" width="100%" alt="Mayur Chavda: Full Stack and App Developer, UI Crafter, Video Editor" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/header-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/header-light.svg" width="100%" alt="Mayur Chavda: Full Stack and App Developer, UI Crafter, Video Editor" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js+%7C+Express;React+Native+Android+Apps;I+Build+Next-Level+UIs;Video+Editor+%26+Canva+Designer;Turning+Ideas+Into+Real+Products" alt="Full Stack Developer | Next.js, React, Node.js, Express | React Native Android apps | I build next-level UIs | Video Editor & Canva Designer" />
+  <img src="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/typing.svg" alt="Full Stack Developer | Next.js, React, Node.js, Express | React Native Android apps | I build next-level UIs | Video Editor & Canva Designer" />
 </p>
 
 <p align="center">
@@ -19,7 +19,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 <!-- ==================== ABOUT ==================== -->
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="" /> About Me
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/h-about-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/h-about.svg" width="100%" height="48" alt="About Me" />
+  </picture>
+</p>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="36%" alt="" />
 
@@ -45,7 +50,12 @@ const mayur = {
 ```
 
 <!-- ==================== WHAT I DO ==================== -->
-## 🚀 What I Do
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/h-what-i-do-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/h-what-i-do.svg" width="100%" height="48" alt="What I Do" />
+  </picture>
+</p>
 
 <p align="center">
   <b>🌐 Full Stack Apps</b> · React, Next.js, Node.js &amp; Django<br />
@@ -55,7 +65,12 @@ const mayur = {
 </p>
 
 <!-- ==================== TECH STACK ==================== -->
-## 🛠️ Tech Stack
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/h-tech-stack-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/h-tech-stack.svg" width="100%" height="48" alt="Tech Stack" />
+  </picture>
+</p>
 
 <p align="center"><b>Languages</b><br />
   <img src="https://skillicons.dev/icons?i=js,py,java,c,cpp,php" alt="JavaScript, Python, Java, C, C++, PHP" />
@@ -92,7 +107,12 @@ const mayur = {
 </p>
 
 <!-- ==================== GITHUB STATS ==================== -->
-## 📊 GitHub Analytics
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/h-analytics-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/h-analytics.svg" width="100%" height="48" alt="GitHub Analytics" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayurchavda0711&theme=tokyonight" width="100%" alt="GitHub profile details: contributions over the last year" />
@@ -107,7 +127,12 @@ const mayur = {
 </p>
 
 <!-- ==================== SNAKE ==================== -->
-## 🐍 Contribution Snake
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/h-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/h-snake.svg" width="100%" height="48" alt="Contribution Snake" />
+  </picture>
+</p>
 
 <p align="center"><i>A snake eats my contribution graph: lightest days first, busiest days last.</i></p>
 
@@ -123,5 +148,5 @@ const mayur = {
 <p align="center"><b>Thanks for visiting! Let's build something amazing together.</b></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:6c47ff,100:1a1b27&height=120&section=footer" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/mayurchavda0711/mayurchavda0711/main/assets/footer.svg" width="100%" alt="" />
 </p>
